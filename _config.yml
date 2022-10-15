@@ -77,12 +77,7 @@ deploy:
 
 plugin:
       - hexo-generator-feed
-      - hexo-renderer-pandoc
       - hexo-generator-sitemap
-
-pandoc:
-  mathEngine: katex
-  ilters: pandoc-eqnos
 
         #Feed Atom
 feed:
