@@ -50,7 +50,7 @@ algolia_search:
 
 # Local search
 local_search:
-  enable: true
+  enable: false
   preload: false
   CDN:
 
@@ -128,6 +128,7 @@ cover:
     - https://api.vvhan.com/api/acgimg
     - https://www.dmoe.cc/random.php
     - https://acg.toubiec.cn/random.php
+
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
   flink: /img/friend_404.gif
