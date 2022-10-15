@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f618c4a6c494599b",
+        "id": "ff846d6dd55d27d7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "51单片机学习笔记-第一周-点亮LED.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "51单片机学习笔记-第一周-点亮LED.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "51单片机学习笔记-第一周-点亮LED.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "51单片机学习笔记-第一周-点亮LED.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,8 +120,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f618c4a6c494599b",
+  "active": "ff846d6dd55d27d7",
   "lastOpenFiles": [
+    "51单片机学习笔记-第一周-点亮LED.md",
     "125-Toy-Wheels.md",
     "智能家居折腾之旅——在32位机器上安装HomeAssistant_Supervised.md",
     "A-Java-Test-from-Baidu-Wenku.md",
@@ -138,7 +131,6 @@
     "how-to-compile-project-downloading-from-others-in-XCode.md",
     "Java-1.md",
     "Java-2.md",
-    "LaTeX学习笔记.md",
-    "OpenWRT折腾记.md"
+    "LaTeX学习笔记.md"
   ]
 }
