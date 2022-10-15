@@ -53,9 +53,11 @@ categories:
 
     - `\label{eqx}`
       x可用数值替换，作用是标注一个等式，效果如下
-    $$E = mc^2$${ #eq:test}
+$$
+E = mc^2
+$$
     在公式@eq:test中...
-    $$
+$$
 A = \begin{bmatrix}
         a_{11}    & a_{12}    & ...    & a_{1n}\\
         a_{21}    & a_{22}    & ...    & a_{2n}\\
@@ -73,6 +75,7 @@ $$
 
 - 关于Hexo中启用LaTeX支持
 
+~~
   博客嘛，LaTeX支持是很有必要的，不然怎么写公式？查阅了网上很多的资料发现，一个最简单且完美的方式是更换Hexo的MarkDown渲染器，更换成Pandoc即可。当然，首先需要安装Pandoc，再安装渲染器。但是，我一开始按照网上简单的两行命令操作并没有用。
   ```shell
   npm install hexo-renderer-pandoc --save
@@ -90,3 +93,5 @@ $$
     mathEngine: katex
   ```
   当然，也可以使用默认的mathjax。
+~~
+  请使用[hexo-renderer-markdown-it-plus](https://github.com/CHENXCHEN/hexo-renderer-markdown-it-plus)。
