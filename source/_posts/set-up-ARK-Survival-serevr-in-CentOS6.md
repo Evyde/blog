@@ -3,11 +3,11 @@ title: 在CentOS 6上搭建 方舟：生存进化 服务器
 date: 2018-02-17 00:14:13
 tags:
 - ARK
-- Install
 - Linux
 - Server
 - Game
-categories: Game
+categories:
+- Z-Turn
 ---
 # Foreword
   In 2018, Steam had been started a Chinese Spring Festival Selling Activity, I buy a ARK: Survival Evolved in this activity. Though I can't play it at the moment, but I can setup a server. Luckily, I have an avaliable VPS.

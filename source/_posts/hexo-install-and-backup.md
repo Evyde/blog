@@ -3,11 +3,10 @@ title: 安装与备份Hexo
 date: 2018-02-05 20:53:29
 tags:
 - Hexo
-- Install
 - Backup
 - Software
-- Mac
-categories: Code
+categories:
+- Z-Turn
 ---
 # Foreword
   About three years ago around 2015, I found I need to record something important by writting blog. But I didn't prefer to buy VPS or Hosting, and it is too hard to do it in free hostings. So I found github(gitcafe) and Hexo.

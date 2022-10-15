@@ -5,7 +5,7 @@ tags:
 - Linux
 - Play
 categories:
-- Play
+- Z-Turn
 ---
 
 # 智能家居折腾之旅——在32位机器上安装HomeAssistant Supervised

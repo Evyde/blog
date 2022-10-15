@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "407afcb593b81407",
+    "type": "split",
+    "children": [
+      {
+        "id": "f618c4a6c494599b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "51单片机学习笔记-第一周-点亮LED.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "47d9d7023dc76854",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8f7219c94b4e797",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c638d6e67c7254f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2ef8d108f00c2b16",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5445c4f9ffec2969",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4ac453415a10d477",
+    "type": "split",
+    "children": [
+      {
+        "id": "366d90040d122bfb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93855396adae7694",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "51单片机学习笔记-第一周-点亮LED.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba6d10ba4dcae030",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "51单片机学习笔记-第一周-点亮LED.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2bd71a9723a505a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ab09c204b9c3726e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "51单片机学习笔记-第一周-点亮LED.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f618c4a6c494599b",
+  "lastOpenFiles": [
+    "125-Toy-Wheels.md",
+    "智能家居折腾之旅——在32位机器上安装HomeAssistant_Supervised.md",
+    "A-Java-Test-from-Baidu-Wenku.md",
+    "CPP-First-Day.md",
+    "hexo-install-and-backup.md",
+    "how-to-compile-project-downloading-from-others-in-XCode.md",
+    "Java-1.md",
+    "Java-2.md",
+    "LaTeX学习笔记.md",
+    "OpenWRT折腾记.md"
+  ]
+}

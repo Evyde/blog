@@ -4,8 +4,9 @@ date: 2018-06-15 19:39:22
 tags:
 - C++
 - Mistake
+- Code
 categories:
-- Coding
+- Code
 ---
 今天，在编写第一个C++程序时，出现了一个编译错误：  
 ![1]

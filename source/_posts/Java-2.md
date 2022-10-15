@@ -3,7 +3,8 @@ title: Java - 第一个程序：Hello, World!
 date: 2016-10-30 11:14:36
 tags:
 - Java
-categories: Code
+categories:
+- Code
 ---
 
 # 写在前面

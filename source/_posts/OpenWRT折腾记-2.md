@@ -10,8 +10,7 @@ tags:
 - UPS
 - NUT
 categories:  
-- Play  
-- Router
+- Z-Turn
   
 ---
 

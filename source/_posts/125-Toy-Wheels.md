@@ -7,9 +7,7 @@ tags:
 - Code
 - Play
 categories:
-- Study
 - Code
-- Play
 ---
 今天逛知乎，发现了一个挺有意思的[文章](https://www.zhihu.com/question/29779842/answer/71475305)，主要介绍了有个大神想了125个造轮子的项目出来。看着很有意思，就搬运过来了。
 <!--more--> 

@@ -4,9 +4,9 @@ date: 2018-02-10 23:59:14
 tags:
 - Swift
 - Complie
-- Mac
 - Objective-C
-categories: Code
+categories:
+- Code
 ---
 # Foreword
   Sometimes, we need to compile others' program, but to the people who didn't know Swift or Objective-C at all, compiling other people's program is so difficult to do. So this passage will tell you how to compile existed project in XCode.
