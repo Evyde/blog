@@ -125,6 +125,9 @@ cover:
   default_cover:
     - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
     - https://iw233.cn/API/Random.php
+    - https://api.vvhan.com/api/acgimg
+    - https://www.dmoe.cc/random.php
+    - https://acg.toubiec.cn/random.php
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
   flink: /img/friend_404.gif
