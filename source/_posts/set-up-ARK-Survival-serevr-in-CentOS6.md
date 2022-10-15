@@ -2,7 +2,7 @@
 title: 在CentOS 6上搭建 方舟：生存进化 服务器
 date: 2018-02-17 00:14:13
 tags:
-- ARK: Survival Evolved
+- ARK
 - Install
 - Linux
 - Server
