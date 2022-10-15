@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://i.evyde.life
+url: https://i.evyde.live
 root: /
 permalink: /p/:title.html
 permalink_defaults:
@@ -64,8 +64,9 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: aero-dual
-theme_style: dark 
+theme: butterfly
+#theme: aero-dual
+#theme_style: dark 
 
 #Deployment
 ## Docs: https://hexo.io/docs/deployment.html
